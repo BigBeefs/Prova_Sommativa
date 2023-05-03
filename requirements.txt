@@ -3,5 +3,5 @@ matplotlib
 seaborn
 numpy
 mlem
-sklearn
+scikitlearn
 streamlit
