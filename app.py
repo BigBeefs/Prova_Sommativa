@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 import streamlit as st
-from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 import mlem
 
